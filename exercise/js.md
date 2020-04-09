@@ -7,6 +7,7 @@ area.js を作成して以下コードを完成して\
 console.logで表示してください。
 
 条件
+
 - length, width は1～1000の間ではないといけない。
 
 ```javascript
@@ -35,3 +36,12 @@ function getPerimeter(length, width) {
     return perimeter
 }
 ```
+
+## 問題２
+
+factorial.jsを作成して、指定された数字に次の処理を行ってください。
+
+例；　指定された数字: 4\
+24 = 4 x 3 x 2 x 1
+
+条件: 指定された数字は　1～10の間あること。
