@@ -6,6 +6,9 @@ area.js を作成して以下コードを完成して\
 それぞれのfunctionを呼び出して結果を\
 console.logで表示してください。
 
+条件
+- length, width は1～1000の間ではないといけない。
+
 ```javascript
 /*
  * 四角の面積を計算してください。
