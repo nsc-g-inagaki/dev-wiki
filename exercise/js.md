@@ -115,7 +115,7 @@ checkNumber(5);　
 checkNumber(2);
 ```
 
-##　問題 ５
+## 問題 ５
 
 olympic-games.jsを作成して、指定した年までにオリンピックが開催された年を表示してください。
 
