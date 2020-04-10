@@ -114,3 +114,46 @@ checkNumber(5);　
 //コンソールに「偶数です」と表示される
 checkNumber(2);
 ```
+
+##　問題 ５
+
+olympic-games.jsを作成して、指定した年までにオリンピックが開催された年を表示してください。
+
+```javascript
+//オリンピックが初めて開催された年
+const startYear = 1896;
+
+fun gameYears(year) {
+    //startYear　からyearまでのオリンピック開催年を
+    //console.logを使って表示する。
+}
+
+gameYears(2020);
+```
+
+## 問題 ６
+
+multiplication-table.jsを作成して、指定された数字の九九を表示してください。
+表示形式は:　数字 x 1 = 答え
+
+```javascript
+function multiplication(number) {
+    //numberに0～10までを掛け算したものを画面に表示してください。
+    /*
+        numberが10だった場合の表示例；
+        10 x 0 = 0
+        10 x 1 = 10
+        10 x 2 = 20
+        10 x 3 = 30
+        10 x 4 = 40
+        10 x 5 = 50
+        10 x 6 = 60
+        10 x 7 = 70
+        10 x 8 = 80
+        10 x 9 = 90
+        10 x 10 = 100
+    */
+}
+
+multiplication(10);
+```
