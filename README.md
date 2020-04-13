@@ -14,3 +14,4 @@
 [JavaScriptとは？できること・基本をわかりやすく解説](https://www.kagoya.jp/howto/webhomepage/javascript/)\
 [HTMLクイックリファレンス](http://www.htmq.com)\
 [MDN web docs(ファイアーフォックスブラウザを制作している会社のウェブ開発についてのWikiやチュートリアルがあるサイトです。)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
+[IT用語集](http://e-words.jp)
