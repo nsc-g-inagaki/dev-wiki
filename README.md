@@ -5,6 +5,7 @@
 
 - [ツールとセットアップ](tools-setup.md)
 - [問題集](exercise/js.md)
+- [応用問題](exercise/js-advanced.md)
 - [バージョン管理システムについて](version-control.md)
 - [プログラミングについて](base-knowledge.md)
 
