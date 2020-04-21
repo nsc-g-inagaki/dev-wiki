@@ -7,8 +7,9 @@
 - [問題集](exercise/js.md)
 - [応用問題](exercise/js-advanced.md)
 - [バージョン管理システムについて](version-control.md)
+    - [Gitについて](git.md)
 - [プログラミングについて](base-knowledge.md)
-
+- [データーベースについて](database.md)
 
 
 リンクなど\
