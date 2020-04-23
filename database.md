@@ -123,6 +123,9 @@ DBMS上でデータ操作を行うよう命令するための手段です。
 
 ## 6. リレーショナルデータベース
 
+リレーショナルデータベースをいくつかリストアップしておきます。
+[リレーショナルデータベースについて詳しく知りたい場合はこちら](rdb.md)
+
 - [Oracle データベース](https://www.oracle.com/jp/database/)
 - [MySQL](https://www.mysql.com/jp/)
 - [Microsoft SQL Server](https://www.microsoft.com/ja-jp/sql-server/sql-server-2019)
