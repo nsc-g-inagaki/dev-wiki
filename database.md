@@ -11,6 +11,7 @@
     2. [NoSQL](#NoSQL)
 6. [リレーショナルデータベース](#6-リレーショナルデータベース)
 7. [NoSQL](#7-NoSQL)
+8. [SQLコマンドリスト](sqlite-syntax.md)
 
 ## 1. データベースとは
 
@@ -136,3 +137,5 @@ DBMS上でデータ操作を行うよう命令するための手段です。
 - [Amazon DynamoDB](https://aws.amazon.com/jp/dynamodb/?nc2=h_ql_prod_db_ddb)
 - [CouchDB](https://couchdb.apache.org)
 - [Couchbase](https://www.couchbase.com)
+
+## [8. SQLコマンドリスト](sql-syntax.md)

@@ -10,7 +10,7 @@
     - [Gitについて](git.md)
 - [プログラミングについて](base-knowledge.md)
 - [データーベースについて](database.md)
-
+- [SQLiteのSQLの書き方](sqlite-syntax.md)
 
 リンクなど\
 [JavaScriptとは？できること・基本をわかりやすく解説](https://www.kagoya.jp/howto/webhomepage/javascript/)\
