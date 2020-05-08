@@ -28,7 +28,7 @@
 
 1. [Node.js](https://nodejs.org/ja/)へアクセスして、推奨版をダウンロード・インストールする。
 ![node-download site](img/nodejs.jpg)
-2. インストール手順はすべて「次へ」を選択する。　
+2. インストール手順はすべて「次へ」を選択する。
 3. ユーザーの環境変数のPathにnodejsフォルダのパスを追加する。デフォルトで「C:\Program Files\nodejs」にインストールされます。(Windows-64bitの場合)\
 ![node-path-step1](img/path1.jpg)
 ![nodepath-step2](img/path2.jpg)
