@@ -1,4 +1,4 @@
-# EC2にDockerとDOcker Composeを追加する方法
+# EC2にDockerとDocker Composeを追加する方法
 
 EC2にDockerとDocker Composeのインストール方法をまとめました。
 
